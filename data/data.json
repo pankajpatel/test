@@ -1,0 +1,15 @@
+{
+  "causes": [
+    {
+      "id": 0,
+      "name": "Feed the Hungry Children",
+      "artwork": "img/artwork0.png",
+      "type": "img"
+    }, {
+      "id": 1,
+      "name": "Sponsor the Refugee Family",
+      "artwork": "https://youtu.be/0Rv0HkzhDz8",
+      "type": "iframe"
+    }
+  ]
+}
